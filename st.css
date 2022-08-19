@@ -1,0 +1,64 @@
+@media (max-width: 100%) {
+  .navbar-toggler {
+    float: right;
+  }
+}
+@media screen and (max-width: 768px) {
+  
+}
+.navbar-toggler {
+  
+  width: 3em;
+  float: right;
+}
+
+.list ul{
+    list-style-type: none;
+    
+}
+.list a{
+    
+    text-decoration: none;
+}
+.nav-item{
+    font-size: 16px;
+}
+.sentence h3{
+    font-size: 16px;
+    color:#000;
+}
+.sentence a{
+    text-decoration: none;
+    color:blue;
+    font-weight: bold;
+}
+.line1 p{
+    font-size: 12px;
+}
+.line1 a{
+    color:#000;
+    text-decoration: none;
+    font-size: 14px;
+}
+.line1 a:hover{
+    color:blue;
+}
+.finalpart h2{
+    font-size: 18px;
+}
+.lastpara p{
+    font-size: 12px;
+}
+.lastpara a{
+    color:#000;
+    text-decoration: none;
+    font-size: 14px;
+}
+.lastpara a:hover{
+    color:blue;
+}
+.flinks a{
+    text-decoration: none;
+    font-size: 13px;
+    color:#fff;
+}
